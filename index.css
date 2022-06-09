@@ -1,0 +1,209 @@
+
+div{
+    position: relative;
+    width: 600px;
+    height: 936px;
+    
+    background: #000000;
+}
+header {
+position: absolute;
+width: 600px;
+height: 163px;
+left: 0px;
+top: 0px;
+background: url(assets/header.jpg);
+}
+h1{
+    position: absolute;
+    width: 439px;
+    height: 68px;
+    left: 60px;
+    top: 163px;
+    
+    font-family: Helvetica;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 30px;
+    line-height: 35px;
+    color: #00A857;
+}
+#texto1{
+    position: absolute;
+width: 89px;
+height: 23px;
+left: 60px;
+top: 291px;
+
+font-family: 'Helvetica';
+font-style: normal;
+font-weight: 700;
+font-size: 18px;
+line-height: 23px;
+color: #FFFFFF;
+}
+#texto2{
+    position: absolute;
+width: 453px;
+height: 71px;
+left: 60px;
+top: 374px;
+
+font-family: 'Helvetica';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 23px;
+color: #FFFFFF;
+}
+#carteira{
+position: absolute;
+width: 56px;
+height: 56px;
+left: 60px;
+top: 505px;
+
+background: url(assets/carteira.png);
+}
+#textoCarteira{
+position: absolute;
+width: 317px;
+height: 23px;
+left: 146px;
+top: 522px;
+
+font-family: 'Helvetica';
+font-style: normal;
+font-weight: 700;
+font-size: 18px;
+line-height: 23px;
+
+
+color: #FFFFFF;
+}
+#textoTaxa0{
+    position: absolute;
+    width: 367px;
+    height: 46px;
+    left: 146px;
+    top: 586px;
+    
+    font-family: 'Helvetica';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 23px;
+        
+    color: #FFFFFF;
+}
+#tarifa0{
+    position: absolute;
+    width: 56px;
+    height: 56px;
+    left: 60px;
+    top: 581px;
+    
+    background: url(assets/tarifa_zero.png);
+}
+#textoTarifa1{
+    position: absolute;
+    width: 383px;
+    height: 46px;
+    left: 146px;
+    top: 662px;
+    
+    font-family: 'Helvetica';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 23px;
+    /* or 128% */
+    
+    
+    color: #FFFFFF;
+}
+#tarifa1{
+    position: absolute;
+width: 56px;
+height: 56px;
+left: 60px;
+top: 657px;
+
+background: url(assets/tarifa.png);
+}
+#textoCashback{
+    position: absolute;
+    width: 383px;
+    height: 46px;
+    left: 146px;
+    top: 738px;
+    
+    font-family: 'Helvetica';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 23px;    
+    color: #FFFFFF; 
+}
+#cashback{
+    position: absolute;
+width: 56px;
+height: 56px;
+left: 60px;
+top: 733px;
+
+background: url(cashback.png);
+}
+#top{
+position: absolute;
+width: 600px;
+height: 131px;
+left: 8px;
+top: 844px;
+background: url(assets/top.jpg);
+}
+#portabilidade{
+    position: absolute;
+    width: 600px;
+    height: 576px;
+    left: 0px;
+    top: 975px;
+    
+    background: url(assets/portabilidade.png);
+}
+#div1{
+    position: relative;
+    width: 600px;
+    height: 576px;
+    
+    background: #000000;
+}
+#div2{
+    position: relative;
+    width: 600px;
+    height: 576px;
+    
+    background: white;
+}
+#siga{
+    position: absolute;
+    width: 185px;
+    height: 40px;
+    left: 63px;
+    top: 1980px;
+    
+    font-family: 'Helvetica';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 20px;
+
+    
+    
+    color: #00A857;
+    
+}
+
+
+
+
